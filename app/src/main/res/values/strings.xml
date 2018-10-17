@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BLE product</string>
+
+    <!-- MainActivity トースト用 -->
+    <string name="ble_is_not_supported">BLE is not supported</string>
+    <string name="bluetooth_is_not_supported">Bluetooth is not supported.</string>
+    <string name="bluetooth_is_not_working">Bluetooth is not working.</string>
+
+    <!-- MainActivity メニュー用 -->
+    <string name="search">Search</string>
+
+    <!-- MainActivity ラベル用 -->
+    <string name="device_name">Device Name : </string>
+    <string name="device_address">Device Address : </string>
+    <string name="acc">Acc</string>
+    <string name="gyro">gyro</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="chara1">製作会社 : </string>
+    <string name="chara2">バッテリー（％） : </string>
+    <string name="chara1_notify">脳波取得状態(Notify) : </string>
+    <string name="chara2_notify">脳波Rawデータ(Notify) : </string>
+    <string name="start">Start</string>
+    <string name="stop_raw">Stop</string>
+
+    <!-- MainActivity グラフ用 -->
+    <string name="DynamicLineGraph_Description">脳波データ</string>
+    <string name="pi_label">%1$dπ</string>
+    <string name="sine_wave">Sine Wave</string>
+
+    <!-- DeviceListActivity トースト用 -->
+    <string name="unknown_device">Unknown device</string>
+
+    <!-- DeviceListActivity メニュー用 -->
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+</resources>
